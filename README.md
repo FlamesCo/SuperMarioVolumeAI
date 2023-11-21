@@ -1,9 +1,6 @@
 # SuperMarioVolumeAI
 Procdueal Mario AI LELELE
-
-ChatGPT
-Sure, I can optimize the README for SEO, specifically targeting Google's search engine algorithms as of 2024. Here's the revised version with SEO considerations:
-
+ 
 SuperMarioVolumeAI by Flames Co.
 
 Overview
